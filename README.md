@@ -1,11 +1,5 @@
 # hello-world
+A hello-world project
 
-This is a demo of using Github.
-
-Some key concepts are:
-
-* repository
-* branch
-* commit
-* pull request
-* merge
+This project is the classic "Hello World" project
+focused on using Github
